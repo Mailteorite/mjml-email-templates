@@ -35,9 +35,9 @@
 
 This repo contains **battle-tested MJML email templates** (+ compiled HTML) for common email flows:
 
-✅ Welcome & onboarding  ✅ Invoices & receipts ✅ Product launches & promos  ✅ Re-engagement & winback  
+✅ Welcome & onboarding        ✅ Re-engagement & winback  ✅ Product launches & promos  ✅Invoices & receipts  
                                                   
-✅ Password reset / security   ✅ Abandoned cart recovery  ✅ Shipping notifications ✅ Upsell & cross-sell
+✅ Password reset / security   ✅ Abandoned cart recovery  ✅ Shipping notifications     ✅ Upsell & cross-sell
 
  
 
