@@ -15,7 +15,6 @@
   <!-- BADGES -->
 <p>
   <img src="https://img.shields.io/github/license/mailteorite/mjml-email-templates.svg?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/Templates-42-brightgreen?style=for-the-badge" alt="Templates Available">
 </p>
 </div>
   <h1 align="center">MJML Email Templates</h1>
@@ -41,8 +40,10 @@ This repo contains **battle-tested MJML email templates** (+ compiled HTML) for 
 ✅ Password reset / security   ✅ Abandoned cart recovery  ✅ Shipping notifications     ✅ Upsell & cross-sell
 
  
+### What you get
 
-
+**42+ free, production-ready MJML email templates**  
+for SaaS onboarding, password reset, trial ending, invoices, shipping updates, abandoned cart recovery, winback, and promos.
 
 **Why use these?**
 - 📱 Mobile-first responsive
