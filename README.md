@@ -13,9 +13,10 @@
   <br/>
   
   <!-- BADGES -->
-  <p>
-    <img src="https://img.shields.io/github/license/mailteorite/mjml-email-templates.svg?style=for-the-badge" alt="License">
-  </p>
+<p>
+  <img src="https://img.shields.io/github/license/mailteorite/mjml-email-templates.svg?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Templates-42-brightgreen?style=for-the-badge" alt="Templates Available">
+</p>
 </div>
   <h1 align="center">MJML Email Templates</h1>
   <p align="center">
