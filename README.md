@@ -194,8 +194,9 @@ Don't want to edit code manually?
 
 > [!NOTE]
 > Every **`.mjml`** file includes header comments explaining:
->  **What to personalize**
-
+> - **When to send it**
+> - **Why it converts**
+> - **What to personalize**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
